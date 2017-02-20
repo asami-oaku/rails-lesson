@@ -1,0 +1,13 @@
+current directory: /Users/asamioaku/rails-lesson/toy_app/vendor/bundle/gems/json-1.8.6/ext/json
+/Users/asamioaku/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170220-21539-5t6hpl.rb extconf.rb 
+creating Makefile
+
+current directory: /Users/asamioaku/rails-lesson/toy_app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/asamioaku/rails-lesson/toy_app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/asamioaku/rails-lesson/toy_app/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
